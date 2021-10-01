@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/grafana/jsonnet-libs.git",
+          "subdir": "ksonnet-util"
+        }
+      },
+      "version": "4e5e244d981a261238ccd36faf80a83fc7041410",
+      "sum": "OxgtIWL4hjvG0xkMwUzZ7Yjs52zUhLhaVQpwHCbqf8A="
+    },
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/grafana/jsonnet-libs.git",
+          "subdir": "memcached"
+        }
+      },
+      "version": "4e5e244d981a261238ccd36faf80a83fc7041410",
+      "sum": "dTOeEux3t9bYSqP2L/uCuLo/wUDpCKH4w+4OD9fePUk="
+    }
+  ],
+  "legacyImports": false
+}
